@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Eren!
-- 👀 I’m interested in C and C++.
+- 👀 I’m interested in C, C++ and C#.
