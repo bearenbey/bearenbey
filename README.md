@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Eren!
-- 👀 I develop ncurses app for fun.
+- 👀 I develop ncurses apps for fun.
