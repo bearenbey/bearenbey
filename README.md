@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Eren!
-- 👀 I’m interested in C, C++ and C#.
+- 👀 I develop ncurses app for fun.
